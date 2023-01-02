@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 2rem;
+}
+
+div {
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  padding: 2rem;
+  width: 20rem;
+  align-items: center;
+}
